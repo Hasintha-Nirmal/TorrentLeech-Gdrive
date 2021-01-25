@@ -1,5 +1,5 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
-# working example group [Leech Here](https://telegram.dog/GBotStore)
+# for support join here [Tech Wizard Entertainment](https://t.me/Tech_Wizard_Ent)
+# working example group [Wizard Leech LK 🇱🇰](https://t.me/WizardLeechLK)
 
 # Telegram Torrent Leecher 🔥🤖
 
@@ -50,8 +50,6 @@ e)It should look like `app.json`. 🎉
 f)Then tap 👇👇
 
  Heroku is not supported now 😕 #Dead
-
-Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
 ## Process to run this BOT on VPS
 
@@ -291,4 +289,3 @@ the file will be uploaded as `new.txt`.
 * [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
 * [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
 * [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
