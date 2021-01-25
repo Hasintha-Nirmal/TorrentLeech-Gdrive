@@ -57,7 +57,7 @@ Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentL
 
 - Clone this repo:
 ```
-git clone https://github.com/kaviya-admin/TorrentLeech-Gdrive.git
+git clone https://github.com/kaviya-admin/TorrentLeech-Gdrive
 cd torrentleech-gdrive
 ```
 
